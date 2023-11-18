@@ -14,5 +14,5 @@ function save() {
     countEl.textContent = 0
 }
 
-console.log('hahahah')
+console.log('ble')
 
